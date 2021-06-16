@@ -1,0 +1,154 @@
+img
+{
+    position: absolute;
+    width: 100px;
+    height: 147px;
+    left: 670px;
+    top: 21px;
+    
+
+}
+header {
+    position: absolute;
+    width: 1440px;
+    height: 189px;
+    left: 0px;
+    top: 0px;
+
+background: #E6E6E6;
+      
+}
+
+
+main
+{
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+}
+h1
+{ /*no puedo centrar */
+    position:absolute;
+    width:1013;
+    height:30px;
+    left:213px;
+    top:190px;
+    font-size: 35px;  
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+}
+.fondoH1
+{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 160px;
+    background: #C4C4C4;
+}
+h2
+{ /*no puedo centrar */
+    position:relative;
+    width: 1041px;
+    height: 30px;
+    left: 225px;
+    font-size: 20px; 
+    color: #005677;
+    text-align:left;
+    text-transform: uppercase;
+    background: #C4C4C4;
+}
+/*ok*/
+.topSFondo1
+{ top:352px;}
+.topSFondo2
+{ top:450px;}
+.topSFondo3
+{ top:550px;}
+
+.negritaItalic
+{
+    font-weight: bold;  
+    font-style: italic;
+}
+.negrita
+{
+    font-weight: bold;  
+}
+.topList1
+{
+    top: 400px;   
+}
+#margen_Li1
+{
+    position:absolute;
+    top: 400px;
+    left: 274px;
+    line-height:20px;
+}
+#margen_Li2
+{
+    position:absolute;
+    top: 535px;
+    left: 274px;
+    line-height:20px;
+}
+#margen_Li3
+{
+    position:absolute;
+    top: 693px;
+    left: 274px;
+    line-height:20px;
+}
+.itali_NegL1
+{
+    font-style: italic;
+    font-weight: bold;
+}
+.sinNegrita
+{
+    font-weight:normal;    
+}
+
+.list_sinpunto
+{
+    list-style:none;
+}
+
+footer
+{
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 987px;
+background: #005677;
+color:#FFF;
+text-align: center;
+
+/*display:flex;*/
+/*justify-content:center;*/
+/*margin-top: 10rem;*/
+/*padding:.7rem;*/
+}
+
+
+.imab{
+
+width: 20px;
+height: 20px;
+display: block;
+}
+
+.imac{
+
+    margin-left: 40px;
+    width: 20px;
+    height: 20px;
+    display: block;
+    }
+    .tabular
+    {
+        margin-left: 80px;
+    }
