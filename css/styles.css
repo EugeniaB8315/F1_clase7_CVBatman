@@ -37,6 +37,7 @@ h1
     color: #005677;
     text-align: center;
     text-transform: uppercase;
+    padding-top: 20px;
 }
 .fondoH1
 {
@@ -121,21 +122,22 @@ footer
 position: absolute;
 width: 1440px;
 height: 37px;
-left: 0px;
-top: 987px;
+left: 10px;
+top: 787px;
 background: #005677;
 color:#FFF;
-text-align: center;
+margin-left: -70px;
+/*text-align: center;*/
 
-/*display:flex;*/
-/*justify-content:center;*/
-/*margin-top: 10rem;*/
-/*padding:.7rem;*/
+display:flex;
+justify-content:center;
+margin-top: 10rem;
+padding:20px;
 }
 
 
 .imab{
-
+margin-left: 140px;
 width: 20px;
 height: 20px;
 display: block;
@@ -143,11 +145,14 @@ display: block;
 
 .imac{
 
-    margin-left: 40px;
+    margin-left: 180px;
     width: 20px;
     height: 20px;
     display: block;
     }
+
+
+
     .tabular
     {
         margin-left: 80px;
